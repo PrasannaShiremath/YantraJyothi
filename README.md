@@ -3,6 +3,9 @@ install recquired libraries .....like.....
 open cv
 mediapipe
 sreen_brightness_control 
+mumpy
+math
+hypot
 .
 .
 .
